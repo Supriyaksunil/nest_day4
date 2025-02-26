@@ -1,5 +1,5 @@
 .home{
-    background-color: rgb(170, 190, 207);
+    background-color: rgb(202, 201, 201);
     height: 800px;
     border-radius: 10px;
 }
@@ -7,7 +7,7 @@
 .homebackground{
     width: 1115px;
     height: 500px;
-    border-radius: 10px;
+    /* border-radius: 10px; */
 }
 .homeP{
     margin-top: -300px;
@@ -16,7 +16,7 @@
 }
 .homeLower{
     margin-top: 300px;
-    color: white;
+    color:rgb(5, 76, 138);
 }
 .homeLowerLeft{
     font-weight: 1000;

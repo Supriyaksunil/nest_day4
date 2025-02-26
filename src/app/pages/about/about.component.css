@@ -1,5 +1,5 @@
 .about{
-    background-color: rgb(170, 190, 207);
+    background-color: rgb(5, 76, 138);
     height: 1200px;
     border-radius: 10px;
 }
@@ -11,8 +11,9 @@
 .aboutContent{
     width: 500px;
     margin-left: 290px;
+    color: white;
 }
-img{
+/* img{
     border-radius: 10px;
     width: 200px;
     height: 200px;
@@ -26,4 +27,4 @@ img{
 }
 .messageP{
     margin-right: 50px
-}
+} */

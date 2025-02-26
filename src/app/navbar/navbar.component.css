@@ -1,3 +1,14 @@
-.buttonClass{
-    margin-left: 700px;
+.list{
+    /* margin-left: 700px; */
+     
+    color: aliceblue;
+    /* font-style: italic; */
+}
+li{
+    list-style: none;
+    color: white;
+}
+.nav-item:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
 }

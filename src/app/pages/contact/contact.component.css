@@ -1,6 +1,6 @@
 section{
-    background-color: rgb(170, 190, 207);
-    border-radius: 10px;
+    background-color:rgb(5, 76, 138) ;
+    /* border-radius: 10px; */
 }
 .mapp{
     width: 400px;
@@ -9,3 +9,17 @@ section{
 /* .conrtactForm{
     margin-top: -400px;
 } */
+ form-label{
+    color: white;
+ }
+ .btn-gradient {
+    background: linear-gradient(45deg, #007bff, #6610f2);
+    border: none;
+    color: white;
+    font-weight: bold;
+    transition: 0.3s ease-in-out;
+}
+
+.btn-gradient:hover {
+    background: linear-gradient(45deg, #6610f2, #007bff);
+}
